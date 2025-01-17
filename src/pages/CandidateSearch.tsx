@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import CandidateCard from "../components/CandidateCard";
 import { Candidate } from "../interfaces/Candidate.interface";
 import { searchGithub, searchGithubUser } from "../api/API";
-import NavigationBar from "../components/Nav";
 
 const CandidateSearch: React.FC = () => {
   const [candidates, setCandidates] = useState<Candidate[]>([]);
