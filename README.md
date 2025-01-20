@@ -63,7 +63,7 @@ To increase the GitHub API rate limit, a personal access token was created follo
 
 The application has been successfully deployed to **Render**. See link below
 
-- [Deployed link](https://render.com/docs/deploy)
+- [Deployed link](https://github-candidate-search-application-1.onrender.com/)
 
 
 ---
